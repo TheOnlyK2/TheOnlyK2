@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @TheOnlyK2
-- 👀 I’m interested in reversing and game hacking (Building foundational knowledge)
-- 🌱 I’m currently learning programming (C++)
+- 🌱 I’m currently learning programming (C++) and reversing 
